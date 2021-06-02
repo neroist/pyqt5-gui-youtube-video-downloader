@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import (QLabel, QDialog, QDialogButtonBox, QVBoxLayout)
+from PyQt5.QtWidgets import QLabel, QDialog, QDialogButtonBox, QVBoxLayout
 from PyQt5.QtCore import QUrl
 
 
